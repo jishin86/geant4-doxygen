@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['x_124684',['x',['../dd/dcb/classG4Scale.html#aea4086a9690332d590de0cbac9fa77dda07353c2946f340cd593db94055d5e25b',1,'G4Scale::x()'],['../da/d12/classG4VisCommandSceneAddLogo.html#a5dce6d8cabeac41f83ac6f3a4adbdee1a520deeee02ce45df25b16f120485691f',1,'G4VisCommandSceneAddLogo::X()']]],
+  ['x1530_124685',['X1530',['../de/d4f/classG4ParticleTypeConverter.html#a3b9884a5b5d4ff4c218974c5d35e9670a5a9ff0e13641229a5ccc65f096837edc',1,'G4ParticleTypeConverter']]],
+  ['x1690_124686',['X1690',['../de/d4f/classG4ParticleTypeConverter.html#a3b9884a5b5d4ff4c218974c5d35e9670a21f8b049f0e4521763acbb4eb416f6b6',1,'G4ParticleTypeConverter']]],
+  ['x1820_124687',['X1820',['../de/d4f/classG4ParticleTypeConverter.html#a3b9884a5b5d4ff4c218974c5d35e9670adf57ab2f0cf3a146479fdd111d6cda06',1,'G4ParticleTypeConverter']]],
+  ['x1950_124688',['X1950',['../de/d4f/classG4ParticleTypeConverter.html#a3b9884a5b5d4ff4c218974c5d35e9670a9b3311a291ce851ba1835586d0767ab7',1,'G4ParticleTypeConverter']]],
+  ['x2030_124689',['X2030',['../de/d4f/classG4ParticleTypeConverter.html#a3b9884a5b5d4ff4c218974c5d35e9670a7a4435ce11ed07ca78b8dd7c00348432',1,'G4ParticleTypeConverter']]],
+  ['x_5fray_124690',['x_ray',['../dd/db6/G4SurfaceProperty_8hh.html#a9d6ae6598da59559ad44a5dfa7333eb3ad5aed348a496dcb04026e444828af89e',1,'G4SurfaceProperty.hh']]],
+  ['xi0_124691',['xi0',['../d1/dd5/classG4RPGInelastic.html#afc9d11ae2112a39692eb517f83d70d32ab46bb1bf51ab5d5dd472313c30ba7dbb',1,'G4RPGInelastic::xi0()'],['../db/d32/namespaceG4InuclParticleNames.html#a5712b6fd75643c96893b8ccba2c866beacc73c5ffcb936801bf790d2a567e30f2',1,'G4InuclParticleNames::xi0()']]],
+  ['xigamma_124692',['XiGamma',['../d1/db6/classG4ExcitedXiConstructor.html#a6a4d4f65bc6600e5419a15d4ba14a014a794d308595818ff6268b3b71f481cbab',1,'G4ExcitedXiConstructor']]],
+  ['xiisospin_124693',['XiIsoSpin',['../d1/db6/classG4ExcitedXiConstructor.html#a96f2ef271bcb8897a69801694dfec22ea95293914a93e9f4648bf49b7937de1cc',1,'G4ExcitedXiConstructor']]],
+  ['xim_124694',['xim',['../d1/dd5/classG4RPGInelastic.html#afc9d11ae2112a39692eb517f83d70d32a8757d65021cd1b3d217d0583ea0a99ae',1,'G4RPGInelastic::xim()'],['../db/d32/namespaceG4InuclParticleNames.html#a5712b6fd75643c96893b8ccba2c866bea821826f17852626790f3be1b114e9519',1,'G4InuclParticleNames::xim()']]],
+  ['ximinus_124695',['xiMinus',['../db/d32/namespaceG4InuclParticleNames.html#ac477c3c12c0dc1a8bc6c3c3e1434e6caadbf77f28e868eb4e5a190d9088e5b0a1',1,'G4InuclParticleNames']]],
+  ['xipi_124696',['XiPi',['../d1/db6/classG4ExcitedXiConstructor.html#a6a4d4f65bc6600e5419a15d4ba14a014a5c4f10107a9968780078395e356d70cf',1,'G4ExcitedXiConstructor']]],
+  ['xizero_124697',['xiZero',['../db/d32/namespaceG4InuclParticleNames.html#ac477c3c12c0dc1a8bc6c3c3e1434e6caa23ab1a42109f325207750df812be38a7',1,'G4InuclParticleNames']]],
+  ['xsattachment_124698',['XSAttachment',['../df/d36/G4VLEPTSModel_8hh.html#a8c57f157e50eb6da81f7dd20f6666a38ae83c93e833bd402819b943a56c9de859',1,'G4VLEPTSModel.hh']]],
+  ['xsdissociation_124699',['XSDissociation',['../df/d36/G4VLEPTSModel_8hh.html#a8c57f157e50eb6da81f7dd20f6666a38a5e0b9545034a234bf0af7a366ef3f826',1,'G4VLEPTSModel.hh']]],
+  ['xselastic_124700',['XSElastic',['../df/d36/G4VLEPTSModel_8hh.html#a8c57f157e50eb6da81f7dd20f6666a38a29ab7279e6a020666a80339703ac00f2',1,'G4VLEPTSModel.hh']]],
+  ['xsenergy_124701',['XSEnergy',['../df/d36/G4VLEPTSModel_8hh.html#a8c57f157e50eb6da81f7dd20f6666a38a6161fd1e0c4db215e3ccbec54cc65f32',1,'G4VLEPTSModel.hh']]],
+  ['xsexcitation_124702',['XSExcitation',['../df/d36/G4VLEPTSModel_8hh.html#a8c57f157e50eb6da81f7dd20f6666a38a571a04d986c3da86bee0386686cf6b9a',1,'G4VLEPTSModel.hh']]],
+  ['xsinelastic_124703',['XSInelastic',['../df/d36/G4VLEPTSModel_8hh.html#a8c57f157e50eb6da81f7dd20f6666a38ad29d1e79f1019c2c79f325c01c961b58',1,'G4VLEPTSModel.hh']]],
+  ['xsionisation_124704',['XSIonisation',['../df/d36/G4VLEPTSModel_8hh.html#a8c57f157e50eb6da81f7dd20f6666a38a0a045d2178211c0ae9652fcf2d2b1628',1,'G4VLEPTSModel.hh']]],
+  ['xspositronium_124705',['XSPositronium',['../df/d36/G4VLEPTSModel_8hh.html#a8c57f157e50eb6da81f7dd20f6666a38a5f99f2dd52fb799bbb698cfd0029b3bb',1,'G4VLEPTSModel.hh']]],
+  ['xsrotation_124706',['XSRotation',['../df/d36/G4VLEPTSModel_8hh.html#a8c57f157e50eb6da81f7dd20f6666a38a3ce23fd91c3a11faeef2531c35667d63',1,'G4VLEPTSModel.hh']]],
+  ['xstotal_124707',['XSTotal',['../df/d36/G4VLEPTSModel_8hh.html#a8c57f157e50eb6da81f7dd20f6666a38aba9b049304a65a1eab5d3705604d3d30',1,'G4VLEPTSModel.hh']]],
+  ['xsvibration_124708',['XSVibration',['../df/d36/G4VLEPTSModel_8hh.html#a8c57f157e50eb6da81f7dd20f6666a38ae0f60d04539b579ef872cc09cab5ed10',1,'G4VLEPTSModel.hh']]]
+];
